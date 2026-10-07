@@ -1,0 +1,7 @@
+parcel_id,weight,value,deadline,priority
+P1,5,60,2,3
+P2,10,100,1,5
+P3,3,40,3,2
+P4,7,80,2,4
+P5,2,30,4,1
+P6,6,70,1,5
